@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.4 on 2013-07-04 at 16:34 (GMT+02:00)-->
-<keyboard group="0" id="14242" name="Lohokey-it-25" maxout="1">
+<!--Last edited by Ukelele version 2.2.4 on 2013-07-07 at 18:56 (GMT+02:00)-->
+<!--
+Created by Lorenzo "Lohoris" Petrone, based on the original Apple layout
+<looris@gmail.com>
+
+Use it as you wish
+NO WARRANTIES OF ANY KIND FOR ANY REASON
+-->
+<keyboard group="0" id="14242" name="IT4 Keyboard Layout" maxout="1">
     <layouts>
         <layout first="0" last="0" modifiers="30" mapSet="138"/>
     </layouts>
