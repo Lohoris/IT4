@@ -49,6 +49,12 @@ Like in some ancient keyboards, you reach the numbers using `shift` (or `capsloc
 
 There are many more keys you can find using [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
 
+Platforms
+---------
+
+This is the OSX version.
+I did create partial Linux and Windows ports: if anyone is interested in completing them and keeping them up-to-date feel free to contact me at <looris@gmail.com>.
+
 Installation
 ------------
 
