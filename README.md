@@ -35,6 +35,9 @@ Like in some ancient keyboards, you reach the numbers using `shift` (or `capsloc
 * `*` on `shift`+`à`
 * `!` on `shift`+`,`
 * `;` on `-`
+* `…` on `opt`+`,`
+* `•` on `opt`+`.`
+* `°` on `opt`+`-`
 
 ### Deadkeys
 
