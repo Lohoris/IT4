@@ -47,9 +47,9 @@ Like in some ancient keyboards, you reach the numbers using `shift` (or `capsloc
 * grave accent on `opt`+`9`
 * circumflex on `opt`+`ì`
 
-There are many more keys you can find using [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
-
 ### Full map
+
+I suggest you look at the full map using [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele), but here it is anyway.
 
 #### plain
 `\` `&` `"` `$` `{` `}` `-` `/` `(` `)` `=` `'` `ì`
