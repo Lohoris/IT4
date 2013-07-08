@@ -49,6 +49,44 @@ Like in some ancient keyboards, you reach the numbers using `shift` (or `capsloc
 
 There are many more keys you can find using [Ukelele](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=ukelele).
 
+### Full map
+
+#### plain
+`\` `&` `"` `$` `{` `}` `-` `/` `(` `)` `=` `'` `ì`
+
+`tab` `q` `w` `e` `r` `t` `y` `u` `i` `o` `p` `è` `é`
+
+`caps` `a` `s` `d` `f` `g` `h` `j` `k` `l` `ò` `à` `ù`
+
+`lshift` `<` `z` `x` `c` `v` `b` `n` `m` `,` `.` `;`
+
+#### shift
+`|` `1` `2` `3` `4` `5` `6` `7` `8` `9` `0` `?` `^`
+
+`tab` `Q` `W` `E` `R` `T` `Y` `U` `I` `O` `P` `È` `+`
+
+`caps` `A` `S` `D` `F` `G` `H` `J` `K` `L` `%` `*` `§`
+
+`lshift` `>` `Z` `X` `C` `V` `B` `N` `M` `!` `:` `_`
+
+#### opt
+`bt` ` ` ` ` ` ` `¢` `~` ` ` `Dl` `D'` `Dg` `ç` `¡` `D^`
+
+`tab` ` ` ` ` `€` `®` `™` ` ` `D¨` ` ` ` ` `π` `[` `]`
+
+`caps` `α` `ß` ` ` ` ` `γ` ` ` ` ` ` ` `£` `@` `#` ` `
+
+`lshift` `≤` ` ` `†` `©` ` ` `β` `D˜` `µ` `…` `•` `°`
+
+#### shift+opt
+` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `¿` `î`
+
+`tab` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `
+
+`caps` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `‰` ` ` `¶`
+
+`lshift` `≥` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `·` `—`
+
 Platforms
 ---------
 
