@@ -87,6 +87,15 @@ I suggest you look at the full map using [Ukelele](http://scripts.sil.org/cms/sc
 
 `lshift` `≥` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `·` `—`
 
+#### capslock
+`\` `1` `2` `3` `4` `5` `6` `7` `8` `9` `0` `'` `Ì`
+
+`tab` `Q` `W` `E` `R` `T` `Y` `U` `I` `O` `P` `È` `É`
+
+`caps` `A` `S` `D` `F` `G` `H` `J` `K` `L` `Ò` `À` `Ù`
+
+`lshift` `<` `Z` `X` `C` `V` `B` `N` `M` `,` `.` `;`
+
 Platforms
 ---------
 
