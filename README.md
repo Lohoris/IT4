@@ -83,9 +83,9 @@ I suggest you look at the full map using [Ukelele](http://scripts.sil.org/cms/sc
 
 `tab` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `
 
-`caps` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `‰` ` ` `¶`
+`caps` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `‰` `—` `¶`
 
-`lshift` `≥` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `·` `—`
+`lshift` `≥` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` ` `·` `–`
 
 #### capslock
 `\` `1` `2` `3` `4` `5` `6` `7` `8` `9` `0` `'` `Ì`
