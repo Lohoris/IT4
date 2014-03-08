@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.4 on 2013-07-30 at 09:13 (GMT+02:00)-->
+<!--Last edited by Ukelele version 2.2.8 on 2014-03-08 at 18:02 (GMT+01:00)-->
 <!--
 Created by Lorenzo "Lohoris" Petrone, based on the original Apple layout
 <looris@gmail.com>
@@ -388,6 +388,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
         <keyMap index="3">
             <key code="0" output="α"/>
             <key code="1" output="ß"/>
+            <key code="2" output="δ"/>
             <key code="5" output="γ"/>
             <key code="7" output="†"/>
             <key code="8" output="©"/>
@@ -483,6 +484,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
         </keyMap>
         <keyMap index="4">
             <key code="0" output=""/>
+            <key code="2" output="Δ"/>
             <key code="6" action="1"/>
             <key code="11" output=""/>
             <key code="24" output="î"/>
