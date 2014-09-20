@@ -18,7 +18,7 @@ Those letters are either misplaced or totally absent in the traditional layout.
 
 ### Symbols
 
-Like in some ancient keyboards, you reach the numbers using `shift` (or `capslock`), while the default key outputs a symbol.
+Like in some ancient keyboards, you reach the numbers using `shift` (or `capslock`), while the unmodified key outputs a symbol.
 
 * `&` on `1`
 * `"` on `2`
@@ -112,3 +112,5 @@ Installation
 5. search for "IT4 Keyboard Layout" and check the box
 6. check also "Show Input menu in menu bar"
 7. go into the menu bar and select "IT4 Keyboard Layout"
+
+_Steps 2 and 3 were necessary in older OSX versions, while may not be required anymore in modern ones._
