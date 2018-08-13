@@ -100,7 +100,7 @@ Platforms
 ---------
 
 This is the OSX version.
-I did create partial Linux and Windows ports: if anyone is interested in completing them and keeping them up-to-date feel free to contact me at <looris@gmail.com>.
+I did create partial Linux and Windows ports: if anyone is interested in completing them and keeping them up-to-date feel free to contact me.
 
 Installation
 ------------
