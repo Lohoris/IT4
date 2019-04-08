@@ -399,6 +399,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
             <key code="15" output="®"/>
             <key code="17" output="™"/>
             <key code="21" output="¢"/>
+			<key code="22" output="‑"/>
             <key code="23" output="~"/>
             <key code="24" action="4"/>
             <key code="25" action="13"/>
