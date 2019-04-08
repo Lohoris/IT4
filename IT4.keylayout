@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.1.1.113 on 2019-04-08 at 18:17 (BST)-->
+<!--Last edited by Ukelele version 3.1.1.113 on 2019-04-08 at 18:27 (BST)-->
 <!--
 Created by Lorenzo "Lohoris" Petrone, based on the original Apple layout
 <looris@gmail.com>
@@ -408,7 +408,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<key code="19" output=""/>
 			<key code="20" output=""/>
 			<key code="21" output="¢"/>
-			<key code="22" output="‑"/>
+			<key code="22" output=""/>
 			<key code="23" output="~"/>
 			<key code="24" action="4"/>
 			<key code="25" action="13"/>
@@ -428,7 +428,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<key code="39" output="#"/>
 			<key code="40" output=""/>
 			<key code="41" output="@"/>
-			<key code="42" output=""/>
+			<key code="42" output="‑"/>
 			<key code="43" output="…"/>
 			<key code="44" output="°"/>
 			<key code="45" action="5"/>
