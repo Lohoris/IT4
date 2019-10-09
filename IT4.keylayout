@@ -948,7 +948,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 	</keyMapSet>
 	<actions>
 		<action id="0">
-			<when state="none" next="State 6"/>
+			<when state="none" next="DK Long"/>
 		</action>
 		<action id="1">
 			<when state="none" output=" "/>
@@ -966,7 +966,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Acute" output="Ó"/>
 			<when state="DK Umlaut" output="Ö"/>
 			<when state="DK Tilde" output="Õ"/>
-			<when state="State 6" output="Ō"/>
+			<when state="DK Long" output="Ō"/>
 		</action>
 		<action id="11">
 			<when state="none" output="U"/>
@@ -975,7 +975,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Grave" output="Ù"/>
 			<when state="DK Acute" output="Ú"/>
 			<when state="DK Umlaut" output="Ü"/>
-			<when state="State 6" output="Ū"/>
+			<when state="DK Long" output="Ū"/>
 		</action>
 		<action id="12">
 			<when state="none" output="Y"/>
@@ -992,7 +992,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Acute" output="á"/>
 			<when state="DK Umlaut" output="ä"/>
 			<when state="DK Tilde" output="ã"/>
-			<when state="State 6" output="ā"/>
+			<when state="DK Long" output="ā"/>
 		</action>
 		<action id="15">
 			<when state="none" output="e"/>
@@ -1001,7 +1001,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Grave" output="è"/>
 			<when state="DK Acute" output="é"/>
 			<when state="DK Umlaut" output="ë"/>
-			<when state="State 6" output="ē"/>
+			<when state="DK Long" output="ē"/>
 		</action>
 		<action id="16">
 			<when state="none" output="i"/>
@@ -1010,7 +1010,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Grave" output="ì"/>
 			<when state="DK Acute" output="í"/>
 			<when state="DK Umlaut" output="ï"/>
-			<when state="State 6" output="ī"/>
+			<when state="DK Long" output="ī"/>
 		</action>
 		<action id="17">
 			<when state="none" output="n"/>
@@ -1024,7 +1024,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Acute" output="ó"/>
 			<when state="DK Umlaut" output="ö"/>
 			<when state="DK Tilde" output="õ"/>
-			<when state="State 6" output="ō"/>
+			<when state="DK Long" output="ō"/>
 		</action>
 		<action id="19">
 			<when state="none" output="u"/>
@@ -1033,7 +1033,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Grave" output="ù"/>
 			<when state="DK Acute" output="ú"/>
 			<when state="DK Umlaut" output="ü"/>
-			<when state="State 6" output="ū"/>
+			<when state="DK Long" output="ū"/>
 		</action>
 		<action id="2">
 			<when state="none" next="DK Umlaut"/>
@@ -1059,7 +1059,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Acute" output="Á"/>
 			<when state="DK Umlaut" output="Ä"/>
 			<when state="DK Tilde" output="Ã"/>
-			<when state="State 6" output="Ā"/>
+			<when state="DK Long" output="Ā"/>
 		</action>
 		<action id="7">
 			<when state="none" output="E"/>
@@ -1068,7 +1068,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Grave" output="È"/>
 			<when state="DK Acute" output="É"/>
 			<when state="DK Umlaut" output="Ë"/>
-			<when state="State 6" output="Ē"/>
+			<when state="DK Long" output="Ē"/>
 		</action>
 		<action id="8">
 			<when state="none" output="I"/>
@@ -1077,7 +1077,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="DK Grave" output="Ì"/>
 			<when state="DK Acute" output="Í"/>
 			<when state="DK Umlaut" output="Ï"/>
-			<when state="State 6" output="Ī"/>
+			<when state="DK Long" output="Ī"/>
 		</action>
 		<action id="9">
 			<when state="none" output="N"/>
@@ -1094,6 +1094,6 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		<when state="DK Acute" output="´"/>
 		<when state="DK Umlaut" output="¨"/>
 		<when state="DK Tilde" output="˜"/>
-		<when state="State 6" output=""/>
+		<when state="DK Long" output=""/>
 	</terminators>
 </keyboard>
