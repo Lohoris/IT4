@@ -408,7 +408,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<key code="19" output="“"/>
 			<key code="20" output="”"/>
 			<key code="21" output="¢"/>
-			<key code="22" output=""/>
+			<key code="22" action="DK Breve"/>
 			<key code="23" output="~"/>
 			<key code="24" action="4"/>
 			<key code="25" action="13"/>
@@ -960,6 +960,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="10">
 			<when state="none" output="O"/>
+			<when state="DK Breve" output="Ŏ"/>
 			<when state="State 1" output="Ô"/>
 			<when state="State 2" output="Ò"/>
 			<when state="State 3" output="Ó"/>
@@ -969,6 +970,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="11">
 			<when state="none" output="U"/>
+			<when state="DK Breve" output="Ŭ"/>
 			<when state="State 1" output="Û"/>
 			<when state="State 2" output="Ù"/>
 			<when state="State 3" output="Ú"/>
@@ -984,6 +986,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="14">
 			<when state="none" output="a"/>
+			<when state="DK Breve" output="ă"/>
 			<when state="State 1" output="â"/>
 			<when state="State 2" output="à"/>
 			<when state="State 3" output="á"/>
@@ -993,6 +996,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="15">
 			<when state="none" output="e"/>
+			<when state="DK Breve" output="ĕ"/>
 			<when state="State 1" output="ê"/>
 			<when state="State 2" output="è"/>
 			<when state="State 3" output="é"/>
@@ -1001,6 +1005,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="16">
 			<when state="none" output="i"/>
+			<when state="DK Breve" output="ĭ"/>
 			<when state="State 1" output="î"/>
 			<when state="State 2" output="ì"/>
 			<when state="State 3" output="í"/>
@@ -1013,6 +1018,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="18">
 			<when state="none" output="o"/>
+			<when state="DK Breve" output="ŏ"/>
 			<when state="State 1" output="ô"/>
 			<when state="State 2" output="ò"/>
 			<when state="State 3" output="ó"/>
@@ -1022,6 +1028,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="19">
 			<when state="none" output="u"/>
+			<when state="DK Breve" output="ŭ"/>
 			<when state="State 1" output="û"/>
 			<when state="State 2" output="ù"/>
 			<when state="State 3" output="ú"/>
@@ -1046,6 +1053,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="6">
 			<when state="none" output="A"/>
+			<when state="DK Breve" output="Ă"/>
 			<when state="State 1" output="Â"/>
 			<when state="State 2" output="À"/>
 			<when state="State 3" output="Á"/>
@@ -1055,6 +1063,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="7">
 			<when state="none" output="E"/>
+			<when state="DK Breve" output="Ĕ"/>
 			<when state="State 1" output="Ê"/>
 			<when state="State 2" output="È"/>
 			<when state="State 3" output="É"/>
@@ -1063,6 +1072,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 		</action>
 		<action id="8">
 			<when state="none" output="I"/>
+			<when state="DK Breve" output="Ĭ"/>
 			<when state="State 1" output="Î"/>
 			<when state="State 2" output="Ì"/>
 			<when state="State 3" output="Í"/>
@@ -1073,8 +1083,12 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="none" output="N"/>
 			<when state="State 5" output="Ñ"/>
 		</action>
+		<action id="DK Breve">
+			<when state="none" next="DK Breve"/>
+		</action>
 	</actions>
 	<terminators>
+		<when state="DK Breve" output=""/>
 		<when state="State 1" output="ˆ"/>
 		<when state="State 2" output="`"/>
 		<when state="State 3" output="´"/>
