@@ -951,7 +951,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<when state="none" next="State 6"/>
 		</action>
 		<action id="1">
-			<when state="none" output="¡"/>
+			<when state="none" output=" "/>
 			<when state="DK Circumflex" output="ˆ"/>
 			<when state="DK Grave" output="`"/>
 			<when state="DK Acute" output="´"/>
