@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.1.1.113 on 2019-10-09 at 11:59 (BST)-->
+<!--Last edited by Ukelele version 3.1.1.113 on 2021-04-23 at 20:48 (GMT+1)-->
 <!--
 Created by Lorenzo "Lohoris" Petrone, based on the original Apple layout
 <looris@gmail.com>
@@ -399,7 +399,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<key code="10" output="`"/>
 			<key code="11" output="β"/>
 			<key code="12" output=""/>
-			<key code="13" output=""/>
+			<key code="13" output="ə"/>
 			<key code="14" output="€"/>
 			<key code="15" output="®"/>
 			<key code="16" output=""/>
@@ -511,7 +511,7 @@ NO WARRANTIES OF ANY KIND FOR ANY REASON
 			<key code="10" output=""/>
 			<key code="11" output=""/>
 			<key code="12" output=""/>
-			<key code="13" output=""/>
+			<key code="13" output="Ə"/>
 			<key code="14" output=""/>
 			<key code="15" output=""/>
 			<key code="16" output=""/>
