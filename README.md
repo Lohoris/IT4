@@ -72,7 +72,7 @@ I suggest you look at the full map using [Ukelele](http://scripts.sil.org/cms/sc
 #### opt
 `bt`  ` `  ` `  ` `  `¢` `~`  ` `  `Dl` `D'` `Dg` `ç` `¡` `D^`
 
-`tab`  ` `  ` `  `€` `®` `™`  ` `  `D¨`  ` `  ` `  `π` `[` `]`
+`tab`  ` `  `ə`  `€` `®` `™`  ` `  `D¨`  ` `  ` `  `π` `[` `]`
 
 `caps` `α` `ß` `δ`  ` `  `γ`  ` `  ` `  ` `  `£` `@` `#`  ` `
 
@@ -81,7 +81,7 @@ I suggest you look at the full map using [Ukelele](http://scripts.sil.org/cms/sc
 #### shift+opt
 ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  `¿` `î`
 
-`tab`  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `
+`tab`  ` `  `Ə`  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `  ` `
 
 `caps`  ` `  ` `  `Δ`  ` `  ` `  ` `  ` `  ` `  ` `  `‰` `—` `¶`
 
